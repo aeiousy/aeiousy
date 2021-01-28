@@ -1,4 +1,4 @@
-### Domo Domo, I'm aeiousy#4774
+### Hello I'm aeiousy#4774
 
 Hello my name is Syvel and I like to code discord bots 
 
