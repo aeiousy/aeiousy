@@ -1,16 +1,23 @@
-### Hi there 👋
+### Domo Domo, I'm Sakurajimai#6742
 
-<!--
-**aeiousy/aeiousy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm known as Sakurajimai in Discord, and I love the Aobuta Series so mwuch!
+I'm not really a developer, more like I'm an aspiring engineer (not computer enginner) and just coding stuffs for fun!
 
-Here are some ideas to get you started:
+### Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href='https://github.com/maisans-maid/'> <img src='https://github-readme-stats.vercel.app/api?username=maisans-maid&count_private=true&show_icons=true&theme=nightowl'> </a>
+
+<p></br></p>
+
+### Pinned Repositories
+
+[![Mai](https://github-readme-stats.vercel.app/api/pin/?username=maisans-maid&repo=Mai&theme=nightowl)](https://github.com/maisans-maid/Mai)
+[![Mai-site](https://github-readme-stats.vercel.app/api/pin/?username=maisans-maid&repo=mai-site&theme=nightowl)](https://github.com/maisans-maid/mai-site)
+[![AnimeQuiz](https://github-readme-stats.vercel.app/api/pin/?username=maisans-maid&repo=AnimeQuiz&theme=nightowl)](https://github.com/maisans-maid/AnimeQuiz)
+[![mai-docs](https://github-readme-stats.vercel.app/api/pin/?username=maisans-maid&repo=mai-docs&theme=nightowl)](https://github.com/maisans-maid/mai-docs)
+[![MaiSakurajima](https://github-readme-stats.vercel.app/api/pin/?username=maisans-maid&repo=MaiSakurajima&theme=nightowl)](https://github.com/maisans-maid/MaiSakurajima)
+
+### Most Used Languages
+
+[![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=maisans-maid&layout=compact&theme=nightowl)](https://github.com/maisans-maid/)
+
