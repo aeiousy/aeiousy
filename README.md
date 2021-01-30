@@ -6,10 +6,6 @@
 
 <p></br></p>
 
-### Pinned Repositories
-
-[![Kei](https://github-readme-stats.vercel.app/api/pin/?username=aeiousy&repo=Kei&theme=nightowl)](https://github.com/aeiousy/Kei)
-
 ### Most Used Languages
 
 [![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=aeiousy&layout=compact&theme=nightowl)](https://github.com/aeiousy/)
