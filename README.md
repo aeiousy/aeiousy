@@ -9,6 +9,7 @@
 ### Pinned Repositories
 
 [![Kei](https://github-readme-stats.vercel.app/api/pin/?username=aeiousy&repo=Kei&theme=nightowl)](https://github.com/aeiousy/Kei)
+[![Kei-music](https://github-readme-stats.vercel.app/api/pin/?username=aeiousy&repo=Kei-music&theme=nightowl)](https://github.com/aeiousy/Kei-music)
 
 ### Most Used Languages
 
